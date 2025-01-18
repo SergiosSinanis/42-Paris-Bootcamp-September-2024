@@ -39,7 +39,7 @@ Each folder in the repository corresponds to a specific day or project and inclu
 License
 This repository is for educational purposes and reflects my personal work and growth during the 42 Piscine. Please refrain from using it as a direct reference for other Piscine submissions to respect the 42 School's values of learning through experience.
 
-Happy coding, and thanks for checking out my 42 Piscine projects!
+Have fun and thanks for checking out my 42 Piscine projects!
 
 
 
