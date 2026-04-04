@@ -1,6 +1,6 @@
 # 42-School-Paris-Piscine-September-2024
 
-Welcome to my 42 School Piscine repository! This repository contains all of the projects and exercises I completed during the 42 Paris Piscine. The Piscine is an intense, 1 month-long selection coding bootcamp where students learn the fundamentals of C programming, problem-solving, and collaborative coding. It’s designed to challenge participants to push their limits, think critically, and adopt best practices in low-level software development.
+Welcome to my 42 School Piscine repository! This repository contains all of the projects and exercises I completed during the 42 Paris Piscine. The Piscine is an intense, 1 month-long coding bootcamp and selection process of 42 school, where students learn the fundamentals of C programming, problem-solving, and collaborative coding. It’s designed to challenge participants to push their limits, think critically, and adopt best practices in low-level software development.
 
 Through hands-on projects and challenges, I developed skills in low-level programming, data structures, memory management, and collaborative coding. Each project in this repository reflects a milestone in my journey at 42, showcasing solutions that highlight my logical thinking, coding practices, and perseverance.
 
