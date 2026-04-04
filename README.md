@@ -17,15 +17,11 @@ Each project pushed me to think critically and develop skills in debugging, opti
 Here’s a breakdown of the main projects and exercises included in this repository:
 
 ### C
-C Exercises: A series of exercises covering C basics, including loops, conditionals, and functions.
-Custom Functions: Recreating standard library functions (e.g., ft_putchar, ft_strlen, ft_strcmp) to understand low-level implementation.
-Algorithms
-
-Sorting and Searching: Implementing common algorithms and data manipulation techniques.
-Recursion Exercises: Solving problems using recursion to deepen understanding of function calls and stack usage.
-String Manipulation
-
-ft_split: A function that splits a string into an array of words based on delimiters.
+- C Exercises: A series of exercises covering C basics, including loops, conditionals, and functions.
+- Custom Functions: Recreating standard library functions (e.g. ft_putchar, ft_strlen, ft_strcmp, ft_split) to understand low-level implementation.
+- Sorting and Searching algorithms: Implementing common algorithms and data manipulation techniques.
+- Recursion Exercises: Solving problems using recursion to deepen understanding of function calls and stack usage.
+- Memory Manipulation
 
 ### Advanced Challenges
 - Do-op: A calculator program that uses function pointers for operations.
